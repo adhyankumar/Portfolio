@@ -12,9 +12,9 @@
     border-radius: 20px;
 }
 
-@media screen and (max-width:550px)  {
+@media screen and (max-width:500px)  {
     .profile{
-        width:100vw;
+        width:96vw;
         height:auto;
     }
     
